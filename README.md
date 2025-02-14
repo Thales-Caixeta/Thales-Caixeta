@@ -1,5 +1,5 @@
 ﻿# 👋 Hello, I'm Thales!
-**[Clique aqui para Português-BR](#-portuguese-version)** | **[Click here for English version](#-english-version)**
+**[Clique aqui para Português-BR](#-portuguese)** | **[Click here for English version](#-english)**
 
 ---
 
