@@ -1,8 +1,7 @@
 ﻿# 👋 Hello, I'm Thales!
-**[Clique aqui para Português-BR](#-portuguese)** | **[Click here for English version](#-english)**
 
 ---
-
+## 1️⃣ Portuguese Version
 
 # 👋 Olá, eu sou o Thales!
 
@@ -43,7 +42,7 @@ Atualmente, estou focado em desenvolver projetos práticos de *inteligência art
 
 ---
 
-### English
+## 1️⃣ English Version
 
 # 👋 Hello, I'm Thales!
 
