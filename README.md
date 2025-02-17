@@ -4,7 +4,7 @@
 ## Choose your language / Escolha seu idioma
 
 
-[Português](#-português) | [English](#-english)
+[English](#-english) | [Português](#-português) 
 
 
 ---
