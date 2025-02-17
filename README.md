@@ -1,9 +1,13 @@
-﻿# 👋 Hello, I'm Thales!
-
+﻿# 👋 Hello, I'm Thales! | 👋 Olá, eu sou o Thales!
 ---
+
+# Escolha seu idioma / Choose your language
+
+- [Português](#português)
+- [English](#english)
+
 ## 1️⃣ Portuguese Version
 
-# 👋 Olá, eu sou o Thales!
 
 💻 *Estudante de Ciência da Computação* na *PUC-GO* com forte interesse por *desenvolvimento web* e *inteligência artificial*.  
 
