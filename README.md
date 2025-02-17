@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Thales! | 👋 Olá, eu sou o Thales!
 ---
 
-## Escolha seu idioma / Choose your language
+## Choose your language / Escolha seu idioma
 
-# Português
-# English
+
+[🇧🇷 Português](#-português) | [🇺🇸 English](#-english)
 
 
 ---
