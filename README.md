@@ -3,8 +3,9 @@
 
 ## Escolha seu idioma / Choose your language
 
-# Português
-# English
+- [Português](#português)
+- [English](#english)
+
 
 ---
 
