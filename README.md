@@ -36,7 +36,7 @@
 
 ## 📞 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Thales-Caixeta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thales-caixeta-1735a52a8/)
 
 ## 🌟 What am I currently working on?
 
@@ -73,7 +73,7 @@ Currently, I'm focused on developing practical *artificial intelligence* project
 
 ## 📞 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Thales-Caixeta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thales-caixeta-1735a52a8/)
 
 ## 🌟 No que estou trabalhando agora?
 
