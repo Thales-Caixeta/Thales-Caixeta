@@ -3,8 +3,8 @@
 
 ## Escolha seu idioma / Choose your language
 
-- [Português](#portugu%C3%Aas)
-- [English](#english)
+- [Português](#🌍-português)
+- [English](#🌐-english)
 
 ---
 
