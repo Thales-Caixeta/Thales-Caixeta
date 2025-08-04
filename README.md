@@ -14,13 +14,13 @@ My main interests are in **artificial intelligence** and **back-end development*
 
 I believe in consistent progress and clear thinking. I'm not trying to master everything at once — my focus is depth, not hype.
 
-### 🧰 Technologies I'm learning
+### 🧰 Tecnologias que estou estudando
 
-- Python
-- Java
-- SQL
-- Git
-- Data Structures & Algorithms
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Algoritmos](https://img.shields.io/badge/Algoritmos%20%26%20Estruturas%20de%20Dados-4B8BBE?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ### 📈 What's next?
 
@@ -65,11 +65,11 @@ Acredito em progresso consistente e clareza no que estudo. Não estou tentando a
 
 ### 🧰 Tecnologias que estou estudando
 
-- Python
-- Java
-- SQL
-- Git
-- Estruturas de Dados e Algoritmos
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Algoritmos](https://img.shields.io/badge/Algoritmos%20%26%20Estruturas%20de%20Dados-4B8BBE?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ### 📈 Próximos passos
 
