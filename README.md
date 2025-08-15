@@ -14,7 +14,7 @@ My main interests are in **artificial intelligence** and **back-end development*
 
 I believe in consistent progress and clear thinking. I'm not trying to master everything at once — my focus is depth, not hype.
 
-### 🧰 Technologies I'm studying
+### 🧰 Tecnologias que estou estudando
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
