@@ -8,27 +8,28 @@
 
 ### 🧠 About Me
 
-I'm a Computer Science student at **PUC-GO**, currently focused on building a solid foundation in software development.
+I'm a Computer Science student at **PUC-GO**, currently focused on building a solid foundation in software development and systems analysis.
 
-My main interests are in **artificial intelligence** and **back-end development**, and I'm actively studying technologies that allow me to build scalable and useful solutions.
+My main interests are in **artificial intelligence**, **requirements analysis**, and **back-end development**, and I'm actively learning how to design, understand and build scalable digital solutions that solve real problems.
 
 I believe in consistent progress and clear thinking. I'm not trying to master everything at once — my focus is depth, not hype.
 
-### 🧰 Tecnologias que estou estudando
+### 🧰 Technologies I'm studying
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Algoritmos](https://img.shields.io/badge/Algoritmos%20%26%20Estruturas%20de%20Dados-4B8BBE?style=for-the-badge&logo=codeforces&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4B8BBE?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ### 📈 What's next?
 
-I'm working on building small but real-world projects involving:
+I'm currently building small but real-world projects involving:
 
 - APIs
 - AI integrations
 - Automation tools
+- Requirement analysis and product discovery
 
 Soon, these will be published on my GitHub.
 
@@ -57,11 +58,11 @@ Soon, these will be published on my GitHub.
 
 ### 🧠 Sobre Mim
 
-Sou estudante de Ciência da Computação na **PUC-GO**, atualmente focado em construir uma base sólida em desenvolvimento de software.
+Sou estudante de Ciência da Computação na **PUC-GO**, atualmente focado em construir uma base sólida em **desenvolvimento de software** e **análise de sistemas**.
 
-Tenho interesse por **inteligência artificial** e **back-end**, e estou estudando tecnologias que me permitem criar soluções escaláveis e úteis.
+Tenho interesse por **inteligência artificial**, **análise de requisitos** e **back-end**, buscando aprender como transformar necessidades reais em soluções digitais escaláveis e inteligentes.
 
-Acredito em progresso consistente e clareza no que estudo. Não estou tentando aprender tudo de uma vez — meu foco é profundidade, não hype.
+Acredito em progresso consistente e clareza no aprendizado. Não tento dominar tudo de uma vez — meu foco é profundidade, não hype.
 
 ### 🧰 Tecnologias que estou estudando
 
@@ -73,13 +74,14 @@ Acredito em progresso consistente e clareza no que estudo. Não estou tentando a
 
 ### 📈 Próximos passos
 
-Estou desenvolvendo projetos práticos com:
+Atualmente estou desenvolvendo projetos práticos com:
 
 - APIs
 - Integrações com IA
 - Ferramentas de automação
+- Análise de requisitos e discovery de produto
 
-Logo, eles estarão disponíveis aqui no GitHub.
+Em breve, eles estarão disponíveis aqui no GitHub.
 
 ---
 
